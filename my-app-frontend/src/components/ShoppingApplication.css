@@ -5,11 +5,11 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #d9edc3;
+    background-color: #e7d188;
 }
 
 h2 {
-    color: #006400;
+    color: #b08311;
 }
 
 
@@ -21,11 +21,11 @@ code {
 button {
     margin-left: auto;
     padding: 0.5 rem;
-    background-color: #37784d;
+    background-color: #b78116;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #d39c1b; 
     cursor: pointer;
     float: center;
     width: 25%;
@@ -43,7 +43,7 @@ button {
 
 
 .shopping-item {
-    background: #ffffff99;
+    background: #d7980f99;
     border: grey solid 0.1rem;
     border-bottom: none;
     padding: 0.25rem 1rem 0.25rem 0.25rem;
@@ -53,7 +53,7 @@ button {
 .shopping-item-title {
     font-weight: bolder;
     font-size: 1.3em;
-    color: #37784d;
+    color: #c48914;
   }
   
 .shopping-cat {
@@ -72,23 +72,23 @@ button {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 6px;
-    background-color: #37784d;
+    background-color: #e0a717;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #d8aa11; 
     cursor: pointer;
     width: 5%;       
 }
     
 .delete-button:hover {
-    color:  #5a823c;
-    background-color: #ffffff99;
-    border: 2px solid #37784d; 
+    color:  #d0a221;
+    background-color: #e7b51f99;
+    border: 2px solid #c17716; 
 }
 
 .add-item-button {
-    color:  #5a823c;
+    color:  #cd8623;
 }
   
 select {
@@ -96,12 +96,12 @@ select {
     font-size: 17px;
     padding: 3px 5px;
     border-radius: 5px;
-    border:1px solid #5a823c; 
+    border:1px solid #d07e13; 
     
 }
 
 input[type=text] {
-    border:1px solid #5a823c; 
+    border:1px solid #b57c11; 
     border-radius: 5px;
     width: 85%;
     font-size: 17px;
@@ -112,11 +112,11 @@ input[type=submit] {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #cb8c2c;
     color: white;
     font-size: 0.9em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #a86a13; 
     cursor: pointer;
     width: 25%; 
 }

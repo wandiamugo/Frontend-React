@@ -9,7 +9,7 @@ body {
 
 h1 {
 font-family:  Arial, Helvetica, sans-serif;
-color: #006400;
+color: #af8421;
 }
 
 .App {
@@ -30,7 +30,7 @@ color: #006400;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #cc8513;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -41,7 +41,7 @@ color: #006400;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #c9af1c;
 }
 
 @keyframes App-logo-spin {

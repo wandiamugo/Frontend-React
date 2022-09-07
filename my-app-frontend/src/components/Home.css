@@ -2,17 +2,17 @@ input[type=submit] {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #da9d11;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #bc9e3c; 
     cursor: pointer;
     width: 25%; 
 }
 
 input[type=submit]:hover {
-    color: #37784d;
+    color: #b69211;
     background-color: #ffffff99;
 
 }
@@ -26,7 +26,7 @@ img {
 
 
 input[type=text] {
-    border:1px solid #5a823c; 
+    border:1px solid #c3960c; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -35,7 +35,7 @@ input[type=text] {
 }
 
 input[type=email] {
-    border:1px solid #5a823c; 
+    border:1px solid #ba8d10; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -44,7 +44,7 @@ input[type=email] {
 }
 
 input[type=password] {
-    border:1px solid #5a823c; 
+    border:1px solid #dda416; 
     border-radius: 5px;
     width: 55%;
     font-size: 18px;
@@ -56,23 +56,23 @@ label {
 }
 
 ::placeholder {
-    color:    hwb(95 2% 88%);
+    color:    hwb(43 6% 17%);
  }
 
 .logout-button {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #dfa810;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #bd8618; 
     cursor: pointer;
     width: 25%; 
 }
 
 .logout-button:hover {
-    color: #37784d;
+    color: #d79915;
     background-color: #ffffff99;
 }

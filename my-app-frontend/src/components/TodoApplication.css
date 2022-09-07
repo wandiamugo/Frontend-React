@@ -5,7 +5,7 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #d9edc3;
+    background-color: #c49918;
 }
 
 
@@ -17,11 +17,11 @@ code {
 button {
     margin-left: auto;
     padding: 0.5 rem;
-    background-color: #37784d;
+    background-color: #dda713;
     color: white;
     font-size: 1em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #be8f18; 
     cursor: pointer;
     float: center;
     width: 25%;
@@ -38,8 +38,8 @@ button {
 
 
 .todo {
-    background: #ffffff99;
-    border: grey solid 0.1rem;
+    background: #dc9a1599;
+    border: rgb(207, 159, 38) solid 0.1rem;
     border-bottom: none;
     padding: 0.25rem 1rem 0.25rem 0.25rem;
     display: flex;
@@ -49,7 +49,7 @@ button {
 .todo-title {
     font-weight: bolder;
     font-size: 1.3em;
-    color: #37784d;
+    color: #bd6e0e;
   }
   
 .todo-cat {
@@ -68,29 +68,29 @@ button {
     margin-left:auto;
     padding: 0.5 rem;
     border-radius: 6px;
-    background-color: #37784d;
+    background-color: #e5b02a;
     color: white;
     font-size: 5px;
     font-weight: 600;
-    border: 2px solid #37784d; 
+    border: 2px solid #d3ac10; 
     cursor: pointer;
     width: 5%;       
 }
     
 .delete-button:hover {
-    color:  #5a823c;
-    background-color: #ffffff99;
-    border: 2px solid #37784d; 
+    color:  #ebb213;
+    background-color: #e7991399;
+    border: 2px solid #daac13; 
 }
 
 .add-todo-button {
-    color:  #5a823c;
+    color:  #c18516;
 }
   
 
 
 input[type=text] {
-    border:1px solid #5a823c; 
+    border:1px solid #d5a01b; 
     border-radius: 5px;
     width: 85%;
     font-size: 17px;
@@ -110,7 +110,7 @@ select {
     font-size: 17px;
     padding: 3px 5px;
     border-radius: 5px;
-    border:1px solid #5a823c; 
+    border:1px solid #ce9615; 
     
 }
 
@@ -118,11 +118,11 @@ input[type=submit] {
     margin-left: auto;
     padding: 0.5 rem;
     border-radius: 5px;
-    background-color: #37784d;
+    background-color: #d4990e;
     color: white;
     font-size: 0.9em;
     font-weight: bolder;
-    border: 2px solid #37784d; 
+    border: 2px solid #c99c22; 
     cursor: pointer;
     width: 25%; 
 }
